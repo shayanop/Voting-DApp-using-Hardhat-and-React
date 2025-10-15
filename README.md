@@ -11,6 +11,8 @@ A decentralized Voting application built with Solidity, Hardhat, Ignition and a 
 Personalization: contract named `Voting_ShayanAhmed` and the frontend footer shows the student name.
 
 ---
+<img width="1833" height="1072" alt="image" src="https://github.com/user-attachments/assets/f8d9bd79-55ca-4ade-abf1-b0bd1329ae40" />
+
 
 ## Tech Stack
 - Solidity ^0.8.28, Hardhat, Ignition
